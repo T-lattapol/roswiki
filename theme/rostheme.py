@@ -113,7 +113,6 @@ function handleSubmit() {
 
 <!-- Alert box -->
 <!-- To enable/disable the alert box, uncomment/comment the block below and update the content below the button. -->
-<!--
     <div class="alert alert-info alert-dismissable" style="text-align: center;">
 <script>
 jQuery(function( $ ){
@@ -134,10 +133,8 @@ jQuery(function( $ ){
 });
 </script>
       <button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button>
-      <a href="http://roscon.ros.org">ROSCon 2017</a> will be in Vancouver, September 21-22! <br>
-      The last few years have sold out: register now and take advantage of discounted hotel rates</a>.
+      The ROS Wiki is for ROS 1. Are you using ROS 2 (Dashing/Eloquent/Foxy)? <a href="https://index.ros.org/doc/ros2/Contributing/Developer-Guide/">Check out the ROS 2 Developers Guide.</a>
     </div>
--->
 <!-- End Alert box -->
 
       <table id="topnav-table">
